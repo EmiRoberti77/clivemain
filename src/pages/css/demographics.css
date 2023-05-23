@@ -1,0 +1,73 @@
+body{
+    background: linear-gradient(129.1deg, #091640 0%, #2D4FBC 68.75%, #2C4DC7 100%);
+    color: white;
+}
+
+.main-container{
+    height: 100lvh;
+    width: 100lvb;
+     
+}
+
+.top-container{
+  display: flex;
+  height: 60px;
+  align-items: center;
+  background: #091640 no-repeat;
+  margin-top: 25px;
+  margin-left: 25px;
+  border-radius: 10px;
+}
+
+.top-content{
+    align-items: center;
+    display: flex;
+    width:100%;
+    padding-left: 25px;
+    padding-right:25px;
+  }
+  .title-demographic{
+    font-size: 14px;
+  }
+  .DropDownContainer{
+  display: flex;
+  height: px;
+  align-items: center;
+  background: #091640 no-repeat;
+  margin-top: 25px;
+  margin-left: 25px;
+  border-radius: 10px;
+  padding: 10px;
+
+  }
+
+  
+  .css-11u53oe-MuiSelect-select-MuiInputBase-input-MuiOutlinedInput-input{
+    background-color: #4270ed !important;
+    width: 143px !important;
+    min-height: 10px !important;
+    border-radius: 5px !important;
+    color: white !important;
+    
+  }
+  
+  .Chart_main{
+    text-align: center;
+  }
+
+  .Chart_Container{
+    display: flex;
+    flex-direction: column;
+    text-align: center;
+    margin-top: 25px;
+    margin-left: 25px;
+    background-color: #091640;
+    padding: 25px;
+    border-radius: 10px;
+
+  }
+
+  charttitle{
+    color: white;
+  }
+ 

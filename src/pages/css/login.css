@@ -1,0 +1,19 @@
+@import 'bootstrap/dist/css/bootstrap.min.css';
+
+#main-container {
+  place-items: center center;
+}
+
+#sign-form {
+  max-width: 330px;
+}
+
+.form-control:focus {
+  z-index: 5;
+}
+
+body {
+  display: grid;
+  background: white;
+  min-height: 100vh;
+}
